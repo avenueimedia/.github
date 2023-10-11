@@ -2,19 +2,11 @@
 
 --- 
 
-#### Linear:
-
-```text
-
-> Place the link to the Linear issue here.
-
-```
-
 #### Description:
 
 ```text
 
-> Enter a brief description here for the pull request.
+> Enter a brief description of your pull request here.
 
 ```
 
@@ -30,5 +22,7 @@
 - I have previewed the above markdown.
 
 *Note: You can remove this "checklist" section once complete.*
+
+*Note: Linear will automatically link this pull request to your issue...*
 
 ---
