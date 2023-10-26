@@ -4,11 +4,7 @@
 
 #### Description:
 
-```text
-
 > Enter a brief description of your pull request here.
-
-```
 
 ---
 
